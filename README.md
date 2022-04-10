@@ -1,0 +1,2 @@
+# Haskell
+Exercicios de Haskell
